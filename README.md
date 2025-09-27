@@ -8,7 +8,7 @@
 - 🔗 **Github**: <a href="https://github.com/RuoiVaRua" target="_blank">github.com/RuoiVaRua</a>
 
 ## 🧑🏻‍💻 Lời giới thiệu (💬 About me):
-- Hi, tôi là Hùng - một **lập trình viên**. Có chút kinh nghiệm về **BackEnd** và **DevOps**.\
+- Hi, tôi là Hùng - một **lập trình viên FrontEnd**. Có chút kinh nghiệm về **BackEnd** và **DevOps**.\
 Tôi thích tạo ra những thứ vui vẻ 😎 (như trang web này) mỗi khi có thời gian.\
 Với tôi, mỗi dự án là một hành trình học hỏi, đổi mới và để lại những điều có ý nghĩa 💛.
 
